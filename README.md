@@ -16,4 +16,3 @@ This project is designed for beginners to learn how network packets are structur
    git clone https://github.com/fazal-rehan01/NetSniffer.git
    cd NetSniffer
 
-   
