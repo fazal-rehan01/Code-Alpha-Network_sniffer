@@ -21,8 +21,10 @@ This project is designed for beginners to learn how network packets are structur
    ```bash
    pip install -r requirements.txt 
    ```
-   *(Note: If you are on Arch Linux, you can also install it system-wide with `sudo pacman -S python-scapy`)*
+
    *(Note: If requirement.txt is not found or gives an error, put the full address of requiremnent.txt by copying its location)*
+   *(Note: If you are on Arch Linux, you can also install it system-wide with `sudo pacman -S python-scapy`)*
+
 
 
 ## 💻 Usage
