@@ -1,0 +1,4 @@
+# Runtime dependency. Scapy 2.7.0 is what this project was developed and
+# tested against; 2.5.0 is the floor, because earlier releases expose the
+# ICMPv6 base class under a different name.
+scapy>=2.5.0
